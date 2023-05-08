@@ -1,4 +1,4 @@
-![](https://travis-ci.org/raleighlittles/IXL-Learning-Coding-Challenge.svg?branch=master)
+![build-badge](https://github.com/raleighlittles/IXL-Learning-Coding-Challenge/actions/workflows/main.yml/badge.svg)
 
 # About
 
